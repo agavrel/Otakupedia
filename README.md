@@ -18,9 +18,16 @@
 [[Network] Next Generation Kernel Network Tunnel - WireGuard by JA Donenfeld (pdf)](https://www.wireguard.com/papers/wireguard.pdf)
 [3d Fractal Flame Wisps (pdf)](https://pdfs.semanticscholar.org/f7c4/7cda24b288a1c6624bb683f3c205629c98e5.pdf)  
 [Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
+[Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
 
+##### Tecnical Videos
 
-##### Tutorial videos
+[Bjarne Stroustrup: Why I Created C++](https://www.youtube.com/watch?v=JBjjnqG0BP8)  
+[CppCon 2018: Olivier Giroux “High-Radix Concurrent C++”](https://www.youtube.com/watch?v=75LcDvlEIYw)  
+[Carl Cook "Low Latency C++ for Fun and Profit"](https://www.youtube.com/watch?v=BxfT9fiUsZ4)  
+[Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)  
+
+##### Tutorial Videos
 
 [[Hacking] LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
 [[Android] My Bring Back](https://www.youtube.com/channel/UCHALE0WtcSB1E0dt7IaGqWA)
@@ -57,13 +64,18 @@
 ### Animation
 [Great Teacher Onizuka by Tooru Fujisawa](https://en.wikipedia.org/wiki/Great_Teacher_Onizuka)  
 [Mononoke Hime Trailer](https://www.youtube.com/watch?v=4OiMOHRDs14)  
+[Sen To Chihiro](https://www.youtube.com/watch?v=4_jC-JGVXJQ)  
 [Made in Abyss (メイドインアビス) by Akihito Tsukushi](https://en.wikipedia.org/wiki/Made_in_Abyss)  
+[Zero No Tsukaima](https://en.wikipedia.org/wiki/The_Familiar_of_Zero)  
 
 ### Manga
 [Berserk by Kentaro Miura](https://en.wikipedia.org/wiki/Berserk_(manga))
 
 ---
-### Games
+### Recommended RPG / Strategy Games
+
+---
+#### PS1 (Mostly Squaresoft titles)
 
 ##### Suikoden
 [About Suikoden](https://en.wikipedia.org/wiki/Suikoden)  
@@ -74,21 +86,35 @@
 ##### Saga Frontier II
 [About Saga Frontier II](https://en.wikipedia.org/wiki/SaGa_Frontier_2)  
 
-##### Chrono Trigger
-[About Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)  
-
-##### Zelda III : A Link to the Past
-[About Zelda III : A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)  
-
 ##### Final Fantasy VII
 [FF7 Missable Content Guide](https://www.youtube.com/watch?v=qBcB1Xq2UO0)
 
 ##### Final Fantasy VIII  
 [About Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII)  
 
+---
+#### SNES
+
+##### Chrono Trigger
+[About Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)  
+[Nonfunctional Harmony in Chrono Trigger](https://www.youtube.com/watch?v=5zGqN1ZOEJQ)  
+[Chrono Trigger Story Explained](https://www.youtube.com/watch?v=Bl6Uqb9cJag)  
+
+##### Zelda III : A Link to the Past
+[About Zelda III : A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)  
+
+---
+#### PS2
+
 ##### Final Fantasy X
 [About Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X)  
 
+##### Disgaea 5
+[About Disgaea V](https://store.steampowered.com/app/803600/Disgaea_5_Complete__5/)  
+
+
+---
+#### PC (Mostly Blizzard Entertainment titles)
 
 ##### Ragnarok Online
 [Ragnarok Online All BGM / Soundtrack - 7 Hours](https://www.youtube.com/watch?v=fSqCad6ml9A)  
@@ -107,6 +133,8 @@
 ##### World of Warcraft
 [Warcraft Lore](https://wowwiki.fandom.com/wiki/History_of_Warcraft)  
 
+---
+#### Smartphones
 ##### Hearthstone
 
 [Hearthstone - Pavel - Babbling book](https://www.youtube.com/watch?v=3E0istFgefM)  
@@ -116,12 +144,17 @@
 
 [Under the Dome](https://www.youtube.com/watch?v=f_Y5YeYrqUk)  
 [HOW IT WORKS: Morse Code](https://www.youtube.com/watch?v=xsDk5_bktFo)  
+[Square Enix Before the Merger - A history of Squaresoft, Enix, Dragon Quest and Final Fantasy](https://www.youtube.com/watch?v=dRE90AnejdI)  
+[Slums Survivor: Kenya](https://www.youtube.com/watch?v=qKWeDIVBg-o)  
+[A Stork Love Story](https://www.youtube.com/watch?v=5awBLJOPnK0)  
 
----
-### (K?) Dramas
-[King of Baking, Kim Tak-Goo](https://en.wikipedia.org/wiki/Bread,_Love_and_Dreams_(TV_series))
-[Couple or Trouble](https://en.wikipedia.org/wiki/Couple_or_Trouble)
 
+### (K&J) Dramas
+[Nobuta Wo Produce](https://en.wikipedia.org/wiki/Nobuta_wo_Produce)  
+[Full House](https://en.wikipedia.org/wiki/Full_House)  
+[King of Baking, Kim Tak-Goo](https://en.wikipedia.org/wiki/Bread,_Love_and_Dreams_(TV_series)  
+[Couple or Trouble](https://en.wikipedia.org/wiki/Couple_or_Trouble)  
+[Doctor Stranger (2014)](https://en.wikipedia.org/wiki/Doctor_Stranger)  
 
 ---
 ### Books
@@ -133,6 +166,12 @@
 [1984 by George Orwell](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)  
 [Fahrenheit 451 by Ray Bradbury](https://en.wikipedia.org/wiki/Fahrenheit_451)  
 [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.fr/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233/ref=asc_df_0062301233/?tag=googshopfr-21&linkCode=df0&hvadid=51047635206&hvpos=1o1&hvnetw=g&hvrand=6572454363127902756&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9056516&hvtargid=pla-140701277835&psc=1)
+
+---
+### Movies
+[Logan (2017)](https://www.imdb.com/title/tt3315342/)  
+[Back to the Future (Trilogy)](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise))  
+[The Wolf's Call (2019)](https://en.wikipedia.org/wiki/The_Wolf%27s_Call)
 
 ---
 ### Poker
