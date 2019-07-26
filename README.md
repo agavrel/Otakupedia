@@ -152,7 +152,7 @@
 ### (K&J) Dramas
 [Nobuta Wo Produce](https://en.wikipedia.org/wiki/Nobuta_wo_Produce)  
 [Full House](https://en.wikipedia.org/wiki/Full_House)  
-[King of Baking, Kim Tak-Goo](https://en.wikipedia.org/wiki/Bread,_Love_and_Dreams_(TV_series)  
+[King of Baking, Kim Tak-Goo](https://en.wikipedia.org/wiki/Bread,_Love_and_Dreams_(TV_series))  
 [Couple or Trouble](https://en.wikipedia.org/wiki/Couple_or_Trouble)  
 [Doctor Stranger (2014)](https://en.wikipedia.org/wiki/Doctor_Stranger)  
 
