@@ -19,6 +19,10 @@
 [3d Fractal Flame Wisps (pdf)](https://pdfs.semanticscholar.org/f7c4/7cda24b288a1c6624bb683f3c205629c98e5.pdf)  
 [Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
 [Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
+[A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+[Stochastic Process Wikipedia](https://en.wikipedia.org/wiki/Stochastic_process)  
+[XOR Linked List – A Memory Efficient Doubly Linked List](http://en.wikipedia.org/wiki/XOR_linked_list)  
+[SSE & AVX Vectorization](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/autovectorization)  
 
 ##### Tecnical Videos
 
@@ -26,6 +30,7 @@
 [CppCon 2018: Olivier Giroux “High-Radix Concurrent C++”](https://www.youtube.com/watch?v=75LcDvlEIYw)  
 [Carl Cook "Low Latency C++ for Fun and Profit"](https://www.youtube.com/watch?v=BxfT9fiUsZ4)  
 [Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)  
+[Math for Game Programmers: Dark Secrets of the RNG](https://www.youtube.com/watch?v=J5qnnxFoBss)  
 
 ##### Tutorial Videos
 
@@ -56,6 +61,7 @@
 [SaGa Frontier 2: Feldschlacht III （サガフロンティア2「Feldschlacht III」）by Batakobo](https://www.youtube.com/watch?v=u-9RjcwPCgg)  
 [Eyes On Me (FFVIII) by Kara Comparetto](https://www.youtube.com/watch?v=p-2RbhgAYxE)  
 [Secret of the Forest- Chrono Trigger (Zohar)(Yasunori Mitsuda)](https://www.youtube.com/watch?v=pLx6N98Y6RE)  
+[クロノピアノ　ChronoPiano　－Chrono Trigger/Cross PianoMedley－](https://www.youtube.com/watch?v=Xx19tmRCi9k)  
 
 ### Best Video Game Music Composers
 [The Best of Masashi Hamauzu (Final Fantasy Video Game Music Mix)](https://www.youtube.com/watch?v=leW3aficyck)  
@@ -116,6 +122,9 @@
 ---
 #### PC (Mostly Blizzard Entertainment titles)
 
+##### Heroes of Might and Magic III
+[Purchase and Play Heroes III](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition)
+
 ##### Ragnarok Online
 [Ragnarok Online All BGM / Soundtrack - 7 Hours](https://www.youtube.com/watch?v=fSqCad6ml9A)  
 
@@ -172,6 +181,8 @@
 [Logan (2017)](https://www.imdb.com/title/tt3315342/)  
 [Back to the Future (Trilogy)](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise))  
 [The Wolf's Call (2019)](https://en.wikipedia.org/wiki/The_Wolf%27s_Call)
+My Name is Nobody  
+The Good, the Bad, and the Ugly  
 
 ---
 ### Poker
