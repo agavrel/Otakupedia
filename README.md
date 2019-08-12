@@ -11,20 +11,24 @@
 [Hackerrank](https://hackerrank.com)  
 [Codility](https://www.codility.com/)  
 
-##### Technical Articles
+##### Must-Read Technical Articles
 
 [[C++] Optimizing software in C++ - Agner Fog (pdf)](https://www.agner.org/optimize/optimizing_cpp.pdf)   
 [[Assembly] Intel® 64 and IA-32 Architectures Software Developer’s Manual: Volume 2](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)  
+[[C++] Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)  
+[SSE & AVX Vectorization](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/autovectorization)
 [[Network] Next Generation Kernel Network Tunnel - WireGuard by JA Donenfeld (pdf)](https://www.wireguard.com/papers/wireguard.pdf)
-[3d Fractal Flame Wisps (pdf)](https://pdfs.semanticscholar.org/f7c4/7cda24b288a1c6624bb683f3c205629c98e5.pdf)  
-[Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
-[Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
-[A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+[[Fractal] 3d Fractal Flame Wisps (pdf)](https://pdfs.semanticscholar.org/f7c4/7cda24b288a1c6624bb683f3c205629c98e5.pdf)  
+[[Benchmark] Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
+[[Hash] Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
+[[Sorting] A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
 [Stochastic Process Wikipedia](https://en.wikipedia.org/wiki/Stochastic_process)  
-[XOR Linked List – A Memory Efficient Doubly Linked List](http://en.wikipedia.org/wiki/XOR_linked_list)  
-[SSE & AVX Vectorization](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/autovectorization)  
+[[Memory Optimization] XOR Linked List – A Memory Efficient Doubly Linked List](http://en.wikipedia.org/wiki/XOR_linked_list)  
+[[Memory Optimization] XOR Linked List – C Implementation](https://stackoverflow.com/questions/3531972/c-code-for-xor-linked-list)  
+[[Code Practice] Are Global Variables Bad](https://stackoverflow.com/questions/484635/are-global-variables-bad)
+[[Mathematics] Exponentiation by Squaring](https://en.wikipedia.org/wiki/Exponentiation_by_squaring)  
 
-##### Tecnical Videos
+##### Must-See Technical Videos
 
 [Bjarne Stroustrup: Why I Created C++](https://www.youtube.com/watch?v=JBjjnqG0BP8)  
 [CppCon 2018: Olivier Giroux “High-Radix Concurrent C++”](https://www.youtube.com/watch?v=75LcDvlEIYw)  
@@ -124,6 +128,7 @@
 
 ##### Heroes of Might and Magic III
 [Purchase and Play Heroes III](https://www.gog.com/game/heroes_of_might_and_magic_3_complete_edition)
+[Strategy](https://www.reddit.com/r/heroes3/comments/3v953j/best_hero_and_notable_creatures_for_each_faction/)  
 
 ##### Ragnarok Online
 [Ragnarok Online All BGM / Soundtrack - 7 Hours](https://www.youtube.com/watch?v=fSqCad6ml9A)  
@@ -183,6 +188,7 @@
 [The Wolf's Call (2019)](https://en.wikipedia.org/wiki/The_Wolf%27s_Call)
 My Name is Nobody  
 The Good, the Bad, and the Ugly  
+[The Spy Gone North](https://en.wikipedia.org/wiki/The_Spy_Gone_North)  
 
 ---
 ### Poker
