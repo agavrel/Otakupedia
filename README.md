@@ -16,12 +16,12 @@
 [[C++] Optimizing software in C++ - Agner Fog (pdf)](https://www.agner.org/optimize/optimizing_cpp.pdf)   
 [[Assembly] Intel® 64 and IA-32 Architectures Software Developer’s Manual: Volume 2](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)  
 [[C++] Intel Intrinsics Guide](https://software.intel.com/sites/landingpage/IntrinsicsGuide/)  
-[SSE & AVX Vectorization](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/autovectorization)
-[[Network] Next Generation Kernel Network Tunnel - WireGuard by JA Donenfeld (pdf)](https://www.wireguard.com/papers/wireguard.pdf)
+[SSE & AVX Vectorization](https://www.codingame.com/playgrounds/283/sse-avx-vectorization/autovectorization)  
+[[Network] Next Generation Kernel Network Tunnel - WireGuard by JA Donenfeld (pdf)](https://www.wireguard.com/papers/wireguard.pdf)  
 [[Fractal] 3d Fractal Flame Wisps (pdf)](https://pdfs.semanticscholar.org/f7c4/7cda24b288a1c6624bb683f3c205629c98e5.pdf)  
 [[Benchmark] Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
 [[Hash] Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
-[[Sorting] A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+[[Sorting] A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)  
 [Stochastic Process Wikipedia](https://en.wikipedia.orBjarne Stroustrup: Why I Created C++g/wiki/Stochastic_process)  
 [[Memory Optimization] XOR Linked List – A Memory Efficient Doubly Linked List](http://en.wikipedia.org/wiki/XOR_linked_list)  
 [[Memory Optimization] XOR Linked List – C Implementation](https://stackoverflow.com/questions/3531972/c-code-for-xor-linked-list)  
@@ -98,6 +98,9 @@
 ##### Suikoden
 [About Suikoden](https://en.wikipedia.org/wiki/Suikoden)  
 
+##### Suikoden II
+[About Suikoden II](https://en.wikipedia.org/wiki/Suikoden_II)
+
 ##### Vandal Hearts
 [About Vandal Hearts](https://en.wikipedia.org/wiki/Vandal_Hearts)
 
@@ -116,6 +119,9 @@
 ##### Final Fantasy VIII  
 [About Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII)  
 
+##### Lunar Silver Star Story (when I will have some time)
+[About Lunar](https://en.wikipedia.org/wiki/Lunar:_Silver_Star_Story_Complete)  
+
 ---
 #### SNES
 
@@ -132,6 +138,9 @@
 
 ##### Final Fantasy X
 [About Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X)  
+
+##### Final Fantasy X-2 (Only for the gameplay...)
+[About Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X-2)  
 
 ##### Disgaea 5
 [About Disgaea V](https://store.steampowered.com/app/803600/Disgaea_5_Complete__5/)  
@@ -163,6 +172,14 @@
 
 ##### World of Warcraft
 [Warcraft Lore](https://wowwiki.fandom.com/wiki/History_of_Warcraft)  
+
+
+---
+#### PS4
+
+##### The Last of Us
+
+[About the Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us)
 
 ---
 #### Smartphones
@@ -202,6 +219,10 @@
 Japanese Grammar Guide by Tae Kim    
 The Crime of the Orient Express by Agatha Christie    
 
+---
+### Comics
+
+[The Walking Dead](https://en.wikipedia.org/wiki/The_Walking_Dead_(comic_book))  
 
 ---
 ### Movies
