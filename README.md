@@ -30,6 +30,7 @@
 [[Debugging] GDB Tutorial](https://www.cs.cmu.edu/~gilpin/tutorial/)  
 [C++ Features](https://github.com/AnthonyCalandra/modern-cpp-features)  
 [Obscure C Features](https://multun.net/obscure-c-features.html)  
+[[Security] Gimli: a cross-platform permutation](https://eprint.iacr.org/2017/630.pdf)  
 
 ##### Must-See Technical Videos
 
@@ -38,6 +39,7 @@
 [Carl Cook "Low Latency C++ for Fun and Profit"](https://www.youtube.com/watch?v=BxfT9fiUsZ4)  
 [Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)  
 [Math for Game Programmers: Dark Secrets of the RNG](https://www.youtube.com/watch?v=J5qnnxFoBss)  
+[Geometry Caching Optimizations in Halo 5: Guardians](https://www.youtube.com/watch?v=uYAjUOlEgwI)  
 
 ##### Must-See Githubs
 
@@ -47,6 +49,13 @@
 
 [[Hacking] LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)  
 [[Android] My Bring Back](https://www.youtube.com/channel/UCHALE0WtcSB1E0dt7IaGqWA)
+
+##### Remarkable Persons
+
+[Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)  
+[Masashi Hamauzu](https://en.wikipedia.org/wiki/Masashi_Hamauzu)  
+
+
 
 ---
 ### Musics
@@ -122,6 +131,12 @@
 ##### Lunar Silver Star Story (when I will have some time)
 [About Lunar](https://en.wikipedia.org/wiki/Lunar:_Silver_Star_Story_Complete)  
 
+##### Legend of Legaia
+[About Legend of Legaia](https://gamefaqs.gamespot.com/ps/197766-legend-of-legaia/reviews)
+
+##### Legend of Dragoon
+[About Legend of Dragoon](https://gamefaqs.gamespot.com/ps/197765-the-legend-of-dragoon)
+
 ---
 #### SNES
 
@@ -129,9 +144,16 @@
 [About Chrono Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger)  
 [Nonfunctional Harmony in Chrono Trigger](https://www.youtube.com/watch?v=5zGqN1ZOEJQ)  
 [Chrono Trigger Story Explained](https://www.youtube.com/watch?v=Bl6Uqb9cJag)  
+[Chrono Trigger Medley - Undersea Palace, Magus' Theme, Wings of Time (Piano)(Mitsuda)](https://www.youtube.com/watch?v=FXX21ZDL2lY)  
 
 ##### Zelda III : A Link to the Past
 [About Zelda III : A Link to the Past](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past)  
+
+---
+#### Nintendo 64
+
+##### The Legend of Zelda: Ocarina of Time
+[About The Legend of Zelda: Ocarina of Time](https://gamefaqs.gamespot.com/n64/197771-the-legend-of-zelda-ocarina-of-time)  
 
 ---
 #### PS2
@@ -160,11 +182,9 @@
 [Ragnarok Online All BGM / Soundtrack - 7 Hours](https://www.youtube.com/watch?v=fSqCad6ml9A)  
 
 ##### Diablo II
-
 [Diablo 2 - 1000 MEPHISTO RUNS VOL. 2.0](https://www.youtube.com/watch?v=fWQ5eNJrJbo)
 
 ##### Starcraft
-
 [Boxer's Perfect SCV Rush](https://www.youtube.com/watch?v=Jen46qkZVNI)  
 
 ##### Warcraft III the Frozen Throne
@@ -173,13 +193,17 @@
 ##### World of Warcraft
 [Warcraft Lore](https://wowwiki.fandom.com/wiki/History_of_Warcraft)  
 
+##### Final Fantasy XIII, XIII-2 and Lightning Returns
+On my TODO list for LR
 
 ---
 #### PS4
 
 ##### The Last of Us
-
 [About the Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us)
+
+##### Final Fantasy XV (not that great, didnt bother more than 10 hours)
+[About FFXV](https://gamefaqs.gamespot.com/ps4/932981-final-fantasy-xv)  
 
 ---
 #### Smartphones
@@ -196,6 +220,10 @@
 [Square Enix Before the Merger - A history of Squaresoft, Enix, Dragon Quest and Final Fantasy](https://www.youtube.com/watch?v=dRE90AnejdI)  
 [Slums Survivor: Kenya](https://www.youtube.com/watch?v=qKWeDIVBg-o)  
 [A Stork Love Story](https://www.youtube.com/watch?v=5awBLJOPnK0)  
+[Google's Deep Mind Explained! - Self Learning A.I.](https://www.youtube.com/watch?v=TnUYcTuZJpM)  
+[About the making of Diablo Game](https://www.youtube.com/watch?v=VscdPA6sUkc)  
+[Google Deep Dream Zoom "Inside an artificial brain"](https://www.youtube.com/watch?v=dbQh1I_uvjo)  
+[AOL: The Rise and Fall of the First Internet Empire](https://www.youtube.com/watch?v=RjwVim_EuDo)  
 
 ---
 ### (K&J) Dramas
