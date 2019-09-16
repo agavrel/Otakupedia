@@ -194,16 +194,22 @@
 [Warcraft Lore](https://wowwiki.fandom.com/wiki/History_of_Warcraft)  
 
 ##### Final Fantasy XIII, XIII-2 and Lightning Returns
-On my TODO list for LR
+On my TODO list, especially for LR
 
 ---
-#### PS4
+#### PS4 (need to do it!)
 
 ##### The Last of Us
 [About the Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us)
 
 ##### Final Fantasy XV (not that great, didnt bother more than 10 hours)
 [About FFXV](https://gamefaqs.gamespot.com/ps4/932981-final-fantasy-xv)  
+
+##### World of Final Fantasy
+[Need to find time to finish it!](https://www.youtube.com/watch?v=iiIKLsQmij0)   
+
+##### Final Fantasy VII Remark (on the TODO list)
+[Trailer](https://www.youtube.com/watch?v=4_qjybyni28)  
 
 ---
 #### Smartphones
