@@ -22,7 +22,7 @@
 [[Benchmark] Why Java Suck](https://tech.jonathangardner.net/wiki/Why_Java_Sucks)  
 [[Hash] Efficiently Generating Python Hash Collisions](https://www.leeholmes.com/blog/2019/07/23/efficiently-generating-python-hash-collisions/)  
 [[Sorting] A tour of the top 5 sorting algorithms with Python code](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)  
-[Stochastic Process Wikipedia](https://en.wikipedia.orBjarne Stroustrup: Why I Created C++g/wiki/Stochastic_process)  
+[Stochastic Process Wikipedia](https://en.wikipedia.org/wiki/Stochastic_process)  
 [[Memory Optimization] XOR Linked List – A Memory Efficient Doubly Linked List](http://en.wikipedia.org/wiki/XOR_linked_list)  
 [[Memory Optimization] XOR Linked List – C Implementation](https://stackoverflow.com/questions/3531972/c-code-for-xor-linked-list)  
 [[Code Practice] Are Global Variables Bad](https://stackoverflow.com/questions/484635/are-global-variables-bad)
@@ -240,7 +240,7 @@ On my TODO list, especially for LR
 [Doctor Stranger (2014)](https://en.wikipedia.org/wiki/Doctor_Stranger)  
 
 ---
-### Books
+### Books / Readings
 
 [Lord of the Rings by  J. R. R. Tolkien](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)  
 [Fondation by Isaac Asimov](https://fr.wikipedia.org/wiki/Fondation_(Asimov))  
@@ -252,10 +252,15 @@ On my TODO list, especially for LR
 [A Bag of Marbles by Joseph Joffo](https://en.wikipedia.org/wiki/A_Bag_of_Marbles)  
 Japanese Grammar Guide by Tae Kim    
 The Crime of the Orient Express by Agatha Christie    
+[Nothing to Envy: Ordinary Lives in North Korea](https://www.goodreads.com/book/show/40604846-nothing-to-envy)  
+[The Aquariums of Pyongyang: Ten Years in the North Korean Gulag](https://www.goodreads.com/book/show/69951.The_Aquariums_of_Pyongyang)  
+[How "Study the Great Nation" backdoor Chinese phones](https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12276030)  
+
 
 ---
 ### Comics
 
+[DuckTales](https://en.wikipedia.org/wiki/DuckTales)  
 [The Walking Dead](https://en.wikipedia.org/wiki/The_Walking_Dead_(comic_book))  
 
 ---
@@ -278,18 +283,25 @@ American History X
 Gladiator with Russel Crowe  
 The Departed with Di Caprio (see the original Chinese movie)  
 Good Will Hunting  
-Lawrence of Arabia
+Lawrence of Arabia  
+Tolkien (2019)  
+Avengers  
 
 ### Korean Movies
 Taxi Driver  
 300 Pounds Beauty  
-A Moment to Remember  
+A Moment to Remember
+The Chaser
+
+### Korean Dramas
+You from Another Star (superman Korean version)  
+Baker King Kim Ta Gu (bakery is the way)   
+[Dae Jang Geum (Historical)](https://en.wikipedia.org/wiki/Dae_Jang_Geum)  
 
 
-
-### To watch
+### Yet To Watch
 12 Angry Men  
-
+[Crash (2004)](https://www.imdb.com/title/tt0375679/)  
 
 ---
 ### Poker
